@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+table {
+    margin: 0 auto; /* Centra la tabla */
+    border-collapse: collapse; /* Une los bordes de las celdas */
+}
+
+td {
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    font-size: 20px;
+}
